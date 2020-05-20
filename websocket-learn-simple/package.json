@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
